@@ -1,0 +1,25 @@
+Class name: Document
+
+
+Responsibilities:
+
+
+
+-Write contents to itself
+
+-Display contents document contains(cat)
+
+-Be retrieved from a URL to the current directory(get)
+
+-Overwrite current contents(echo)
+
+-Add to current contents(echo)
+
+
+
+
+Collaborators:
+
+Dir
+
+Jshell

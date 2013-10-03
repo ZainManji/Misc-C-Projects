@@ -1,0 +1,11 @@
+Class name: mkdir
+
+Super class: Command
+
+Responsiblities:
+-make directories relative to the current directory or full path.
+-check the parameter is in the correct format.
+
+Collabarators:
+Command
+Dir

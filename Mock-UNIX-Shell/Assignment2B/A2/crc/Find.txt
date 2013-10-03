@@ -1,0 +1,15 @@
+Class name: Find
+
+Super class: Command
+
+Responsibilities:
+
+-Check the validity of the user input(correct regex and file path format)
+-Print the filename that contain regex one per line 
+
+
+Collaborators:
+Command
+Dir
+Document
+Jshell

@@ -1,0 +1,13 @@
+Class name: Cd
+
+Super class: Command
+
+Responsiblities:
+-check the validity of input parameter
+-change the current directory to the input directory
+
+Collabarators:
+Dir
+Command
+
+

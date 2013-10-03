@@ -1,0 +1,18 @@
+Class name: Rm
+
+Super class: Command
+
+Responsibilities:
+
+-Remove a file or recursively remove a directory, given user confirmation
+-Remove a file or recursively remove a directory without asking user to confirm
+-Determine if input parameters are error free
+
+
+
+
+Collaborators:
+Command
+Dir
+Document
+JShell

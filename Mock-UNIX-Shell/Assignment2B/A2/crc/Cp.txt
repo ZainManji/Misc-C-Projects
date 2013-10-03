@@ -1,0 +1,32 @@
+Class name: Cp
+
+
+
+Super class: Command
+
+
+
+Responsibilities:
+
+
+
+-Copy file/document from one directory to another
+
+-Ensures file does not already exist
+
+-Merges changes if directory already exists
+
+-Determine if input parameters are error free
+
+
+
+
+Collaborators:
+
+Command
+
+Dir
+
+Document
+
+Jshell

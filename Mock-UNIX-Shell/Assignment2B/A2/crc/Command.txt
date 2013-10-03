@@ -1,0 +1,9 @@
+Class name: Command
+Responsibilities:
+
+-Execute command
+-Determine if input parameters are error free
+-Print the manual page for the command
+
+Collaborators:
+none

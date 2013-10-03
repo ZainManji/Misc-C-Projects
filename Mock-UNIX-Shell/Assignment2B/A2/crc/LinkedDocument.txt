@@ -1,0 +1,12 @@
+Class name: LinkedDocument
+
+Super class: Dir
+
+Responsibilities:
+
+-If accessed, return the document or directory that is linked to this
+
+Collaborators:
+Ln
+Dir
+Document

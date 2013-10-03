@@ -1,0 +1,13 @@
+Class name: pwd
+
+Super class: Command
+
+Responsibilities:
+
+-print the current working directory
+
+Collaborators:
+Command
+Dir
+Document
+Jshell

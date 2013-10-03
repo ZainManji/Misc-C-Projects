@@ -1,0 +1,13 @@
+Class name: Get
+
+Super class: Command
+
+Responsibilities:
+
+-Retrieve the file at the URL and add it to the current directory.
+
+Collaborators:
+Command
+Dir
+Document
+JShell

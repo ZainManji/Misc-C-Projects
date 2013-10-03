@@ -1,0 +1,18 @@
+Class name: JSLibrary
+Responsibilities:
+
+-creates an array of commands for use by Jshell
+-checks that commands exist (those handed to Jshell) and returns true or false
+
+Collaborators:
+cat
+cd
+cp
+Echo
+exit
+ls
+mkdir
+mv
+PWD
+Dir
+Document

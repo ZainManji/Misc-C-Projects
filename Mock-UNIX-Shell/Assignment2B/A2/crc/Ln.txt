@@ -1,0 +1,18 @@
+Class name: Ln
+
+Super class: Command
+
+Responsibilities:
+
+-Create a symbolic link between one path and another
+-Determine if input parameters are error free
+
+
+
+
+Collaborators:
+Command
+Dir
+Document
+JShell
+LinkedDocument

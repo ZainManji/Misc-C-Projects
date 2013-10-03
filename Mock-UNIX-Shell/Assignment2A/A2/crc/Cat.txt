@@ -1,0 +1,13 @@
+Class name: Cat
+
+Super class: Command
+
+Responsibilities:
+
+-Displays the contents of the file specified
+
+Collaborators:
+Command
+Dir
+Document
+JShell

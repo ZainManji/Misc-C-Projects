@@ -1,0 +1,11 @@
+Class name: Regex
+
+Responsibilities:
+
+-Read user input
+determine if a regular expression syntax is valid
+determine if a regular expression matches a string
+determine if a regular expression matches a part of a string
+
+Collaborators:
+none

@@ -1,0 +1,18 @@
+Class name: Dir
+Responsibilities:
+
+-Display path to current directory(pwd)
+-Keep track of docs/directories within itself
+-Display docs/directories within itself(ls)
+-Create new docs/directories within itself(mkdir)
+-Move docs/directories from one directory to another(mv)
+-Delete docs/directories from within itself(mv)
+-Copy docs/directories to another directory(cp)
+-Create full path in a correct format with respect to input parameter
+-Find the directory with respect to full path
+-Check the existance of a full path
+
+
+Collaborators:
+Document
+Jshell

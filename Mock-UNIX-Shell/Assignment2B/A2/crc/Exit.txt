@@ -1,0 +1,10 @@
+Class name: Exit
+
+Super class: Command
+
+Responsibilities:
+
+-Exits the JShell
+
+Collaborators:
+Command

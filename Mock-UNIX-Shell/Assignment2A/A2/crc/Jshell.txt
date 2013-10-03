@@ -1,0 +1,14 @@
+Class name: Jshell
+Responsiblities:
+
+-Read user input
+-Terminate when exit is entered
+-Print an error if incorrect input is given
+-Execute commands based on input given
+-Has a built-in system level 'man' command that prints the manual page for any Jshell comman
+
+Collaborators:
+Dir
+Document
+Command
+JSLibrary

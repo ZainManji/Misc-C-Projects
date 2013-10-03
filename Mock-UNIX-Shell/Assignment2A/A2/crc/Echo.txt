@@ -1,0 +1,13 @@
+Class name: Echo
+Responsibilities:
+
+-Read user input
+-outputs to screen if no file specified
+-writes or overwrites to file, if specified 
+-creates file specified if it does not exist
+
+Collaborators:
+Command
+Dir
+Document
+Jshell

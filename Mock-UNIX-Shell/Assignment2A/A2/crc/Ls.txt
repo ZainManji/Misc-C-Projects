@@ -1,0 +1,15 @@
+Class name: Ls
+
+Super class: Command
+
+Responsibilities:
+
+-Displays the contents of the current directory, if no paths are specified
+-If a path specifies a file, displays the path
+-If a path specifies a directory, displays the path and the contents of the directory
+
+Collaborators:
+Command
+Dir
+Document
+JShell
